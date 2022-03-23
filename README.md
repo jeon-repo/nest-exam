@@ -1,1 +1,1 @@
-### next-exam의 socket-test 분기와 같이 사용
+### Socket-Chat-Exam-Client와 병행
